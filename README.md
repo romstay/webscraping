@@ -24,7 +24,7 @@ Otomatis — metode yang menggunakan koding, aplikasi, atau extension browser.
 
 - jika semua sudah selesai maka langkah selanjut nya adalah menjalankan hasil program.
 - seperti ini gambaran program ketika sudah di jalankan:
-![gambar4](ss/ss5.png)
+![gambar4](ss/ss5.jpg)
 
 # Demikian program ini saya buat.Mohon maaf bila ada kesalahan atau kekurangan dalam penjelasan.
 
